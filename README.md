@@ -1,1 +1,1 @@
-<img src="assets/cover.png" alt="Foto Profil" width="250"/>
+<img src="assets/cover.png" alt="cover"/>
