@@ -1,1 +1,1 @@
-![Alt Text](assets/foto.png)
+<img src="assets/cover.png" alt="Cover" />
